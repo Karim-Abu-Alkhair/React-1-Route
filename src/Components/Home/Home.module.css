@@ -1,0 +1,14 @@
+.home {
+  background-color: #1abc9c;
+  padding: 6rem;
+}
+
+:global(.header) {
+  font-size: 4rem;
+}
+
+.img {
+  width: 25rem;
+  margin-bottom: 1rem;
+  margin-top: 6rem;
+}
